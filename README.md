@@ -1,9 +1,22 @@
 # homebrew-tap
 
-Homebrew tap for [@swidaryanto](https://github.com/swidaryanto)'s tools.
+Official Homebrew tap for tools by [@swidaryanto](https://github.com/swidaryanto).
 
-## Install Claude 2x
+<br>
+
+## Available
+
+| Formula | What it does |
+|---|---|
+| `claude2x` | macOS menubar app — shows when Claude gives you double usage limits |
+
+<br>
+
+## Install
 
 ```bash
-brew install --cask swidaryanto/tap/claude2x
+brew install swidaryanto/tap/claude2x
+brew services start swidaryanto/tap/claude2x
 ```
+
+For full setup guide and what it does, visit the [claude2x-menubar repo](https://github.com/swidaryanto/claude2x-menubar).
