@@ -1,6 +1,6 @@
 cask "claude2x" do
   version "2.0.0"
-  sha256 "b6b7aacc4c537251f9ac9be0863cc0c30da210d693300355e2966ee3903b9392"
+  sha256 "3cf55a2db7920cb86876b0a7fe81c811a6d05740847d5a77feeb6cc3caf422d3"
 
   url "https://github.com/swidaryanto/claude2x-menubar/releases/download/v#{version}/Claude2x.dmg"
   name "Claude 2x"
