@@ -1,9 +1,9 @@
 class Claude2x < Formula
   desc "macOS menubar app showing Claude Pro 2x usage status"
   homepage "https://github.com/swidaryanto/claude2x-menubar"
-  url "https://github.com/swidaryanto/claude2x-menubar/releases/download/v2.2.0/claude2x-source-2.2.0.tar.gz"
-  sha256 "d69093931fe4a98870e4c92cdce05a907c4db9b70d1df530221760c8cbfd333c"
-  version "2.2.0"
+  url "https://github.com/swidaryanto/claude2x-menubar/releases/download/v2.3.0/claude2x-source-2.3.0.tar.gz"
+  sha256 "303c8c99b1bfbbec984487c096b584d9981361535c0aa26bbd818b43cf257ac4"
+  version "2.3.0"
   license "MIT"
 
   def install
