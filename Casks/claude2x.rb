@@ -9,9 +9,6 @@ cask "claude2x" do
 
   app "Claude2x.app"
 
-  # Strip macOS quarantine flag — prevents Gatekeeper blocking unsigned app
-  disable_quarantine true
-
   zap trash: [
     "~/Library/LaunchAgents/com.claude2x.app.plist",
   ]
